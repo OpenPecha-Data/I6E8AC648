@@ -1,0 +1,18 @@
+id: I6E8AC648
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:00.838806
+last_modified: 2023-01-04 11:28:00.838821
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  F13A:
+    title: Biography of Jamgön Kongtrul Lodrö Thaye
+    base_file: F13A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
